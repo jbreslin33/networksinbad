@@ -1,0 +1,1044 @@
+Log file started Tue Mar 08 20:55:08 2011
+Tue Mar 08 20:55:08 2011: WSAStartup OK
+Tue Mar 08 20:55:08 2011: Server's information: IP address: 127.0.0.1, port: 30004
+Tue Mar 08 20:55:08 2011: No net interface given, using any interface available
+Tue Mar 08 20:55:08 2011: No port defined, picking one for you
+Tue Mar 08 20:55:08 2011: Opening UDP port = 1523
+Tue Mar 08 20:55:08 2011: CArmyWar::Connect
+Tue Mar 08 20:55:26 2011: LIBRARY: Client: got connect confirmation
+Tue Mar 08 20:55:26 2011: LIBRARY: Client: adding a client
+Tue Mar 08 20:55:26 2011: App: Client: Adding client with index 1
+Tue Mar 08 20:55:26 2011: App: Client: Adding first client
+Tue Mar 08 20:55:26 2011: App: Client: This one is local
+Tue Mar 08 20:55:27 2011: Reading NONDELTAFRAME for client 1
+Tue Mar 08 20:55:28 2011: Client 1: Read key 1
+Tue Mar 08 20:55:28 2011: Prediction error for frame 49:     0.042717, 0.285826
+
+Tue Mar 08 20:55:28 2011: Prediction error for frame 54:     0.262520, 0.302204
+
+Tue Mar 08 20:55:28 2011: Prediction rot error for frame 54:     0.000000, 0.000000
+
+Tue Mar 08 20:55:28 2011: Prediction error for frame 59:     0.000001, -0.000001
+
+Tue Mar 08 20:55:28 2011: Prediction rot error for frame 59:     0.000000, 0.000000
+
+Tue Mar 08 20:55:28 2011: Prediction error for frame 1:     0.000001, -0.000004
+
+Tue Mar 08 20:55:28 2011: Prediction rot error for frame 1:     0.000000, 0.000001
+
+Tue Mar 08 20:55:29 2011: Prediction error for frame 6:     0.000000, -0.000006
+
+Tue Mar 08 20:55:29 2011: Prediction rot error for frame 6:     0.000000, 0.000001
+
+Tue Mar 08 20:55:29 2011: Prediction error for frame 12:     0.000000, -0.000007
+
+Tue Mar 08 20:55:29 2011: Prediction rot error for frame 12:     0.000000, 0.000001
+
+Tue Mar 08 20:55:29 2011: Prediction error for frame 17:     0.000000, -0.000006
+
+Tue Mar 08 20:55:29 2011: Prediction rot error for frame 17:     0.000000, 0.000001
+
+Tue Mar 08 20:55:29 2011: Client 1: Read key 5
+Tue Mar 08 20:55:29 2011: Prediction error for frame 23:     0.000000, -0.000007
+
+Tue Mar 08 20:55:29 2011: Prediction rot error for frame 23:     -0.000000, 0.000001
+
+Tue Mar 08 20:55:29 2011: Prediction error for frame 28:     -0.000002, -0.000006
+
+Tue Mar 08 20:55:29 2011: Prediction rot error for frame 28:     -0.000001, 0.000001
+
+Tue Mar 08 20:55:29 2011: Prediction error for frame 34:     -0.000004, -0.000008
+
+Tue Mar 08 20:55:29 2011: Prediction rot error for frame 34:     -0.000000, 0.000001
+
+Tue Mar 08 20:55:29 2011: Client 1: Read key 4
+Tue Mar 08 20:55:29 2011: Prediction error for frame 39:     -0.000003, -0.000005
+
+Tue Mar 08 20:55:29 2011: Prediction rot error for frame 39:     -0.000001, 0.000001
+
+Tue Mar 08 20:55:29 2011: Prediction error for frame 45:     -0.000005, -0.000005
+
+Tue Mar 08 20:55:29 2011: Prediction rot error for frame 45:     -0.000001, 0.000001
+
+Tue Mar 08 20:55:29 2011: Prediction error for frame 50:     -0.000005, -0.000005
+
+Tue Mar 08 20:55:29 2011: Prediction rot error for frame 50:     -0.000001, 0.000001
+
+Tue Mar 08 20:55:29 2011: Prediction error for frame 56:     -0.000005, -0.000006
+
+Tue Mar 08 20:55:29 2011: Prediction rot error for frame 56:     -0.000001, 0.000001
+
+Tue Mar 08 20:55:30 2011: Client 1: Read key 6
+Tue Mar 08 20:55:30 2011: Prediction error for frame 61:     -0.000005, -0.000002
+
+Tue Mar 08 20:55:30 2011: Prediction rot error for frame 61:     -0.000001, 0.000001
+
+Tue Mar 08 20:55:30 2011: Client 1: Read key 2
+Tue Mar 08 20:55:30 2011: Prediction error for frame 3:     -0.000003, -0.000002
+
+Tue Mar 08 20:55:30 2011: Prediction rot error for frame 3:     -0.000002, 0.000000
+
+Tue Mar 08 20:55:30 2011: Prediction rot error for frame 8:     -0.000002, -0.000000
+
+Tue Mar 08 20:55:30 2011: Prediction rot error for frame 14:     -0.000002, -0.000000
+
+Tue Mar 08 20:55:30 2011: Prediction rot error for frame 19:     -0.000002, -0.000000
+
+Tue Mar 08 20:55:30 2011: Prediction rot error for frame 25:     -0.000002, -0.000000
+
+Tue Mar 08 20:55:30 2011: Prediction rot error for frame 31:     -0.000002, -0.000000
+
+Tue Mar 08 20:55:30 2011: Prediction rot error for frame 36:     -0.000002, -0.000000
+
+Tue Mar 08 20:55:30 2011: Client 1: Read key 10
+Tue Mar 08 20:55:30 2011: Prediction error for frame 42:     0.000000, 0.000000
+
+Tue Mar 08 20:55:30 2011: Prediction rot error for frame 42:     -0.000002, -0.000000
+
+Tue Mar 08 20:55:30 2011: Prediction error for frame 47:     0.000003, 0.000000
+
+Tue Mar 08 20:55:30 2011: Prediction rot error for frame 47:     -0.000003, 0.000000
+
+Tue Mar 08 20:55:31 2011: Client 1: Read key 0
+Tue Mar 08 20:55:31 2011: Prediction error for frame 53:     0.846445, 0.642391
+
+Tue Mar 08 20:55:31 2011: Prediction rot error for frame 53:     -0.000002, -0.000001
+
+Tue Mar 08 20:55:35 2011: Client 1: Read key 1
+Tue Mar 08 20:55:35 2011: Prediction error for frame 31:     0.710761, -0.026621
+
+Tue Mar 08 20:55:35 2011: Prediction rot error for frame 31:     -0.000001, -0.000002
+
+Tue Mar 08 20:55:35 2011: Prediction error for frame 36:     0.000006, -0.000015
+
+Tue Mar 08 20:55:35 2011: Prediction rot error for frame 36:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:35 2011: Prediction error for frame 41:     0.000000, -0.000017
+
+Tue Mar 08 20:55:35 2011: Prediction rot error for frame 41:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:36 2011: Prediction error for frame 47:     0.000000, -0.000021
+
+Tue Mar 08 20:55:36 2011: Prediction rot error for frame 47:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:36 2011: Prediction error for frame 52:     0.000000, -0.000017
+
+Tue Mar 08 20:55:36 2011: Prediction rot error for frame 52:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:36 2011: Prediction error for frame 58:     0.000000, -0.000021
+
+Tue Mar 08 20:55:36 2011: Prediction rot error for frame 58:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:36 2011: Prediction error for frame 0:     0.000000, -0.000021
+
+Tue Mar 08 20:55:36 2011: Prediction rot error for frame 0:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:36 2011: Prediction error for frame 5:     0.000000, -0.000018
+
+Tue Mar 08 20:55:36 2011: Prediction rot error for frame 5:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:36 2011: Prediction error for frame 11:     0.000000, -0.000022
+
+Tue Mar 08 20:55:36 2011: Prediction rot error for frame 11:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:36 2011: Prediction error for frame 16:     0.000000, -0.000019
+
+Tue Mar 08 20:55:36 2011: Prediction rot error for frame 16:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:36 2011: Prediction error for frame 22:     0.000000, -0.000023
+
+Tue Mar 08 20:55:36 2011: Prediction rot error for frame 22:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:36 2011: Prediction error for frame 27:     0.000000, -0.000019
+
+Tue Mar 08 20:55:36 2011: Prediction rot error for frame 27:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:36 2011: Client 1: Read key 0
+Tue Mar 08 20:55:36 2011: Prediction error for frame 33:     0.000000, -0.359558
+
+Tue Mar 08 20:55:36 2011: Prediction rot error for frame 33:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:42 2011: Client 1: Read key 1
+Tue Mar 08 20:55:42 2011: Prediction error for frame 0:     0.000000, -0.272003
+
+Tue Mar 08 20:55:42 2011: Prediction rot error for frame 0:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:42 2011: Prediction error for frame 6:     0.000000, -0.336197
+
+Tue Mar 08 20:55:42 2011: Prediction rot error for frame 6:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:43 2011: Prediction error for frame 11:     0.000000, -0.000019
+
+Tue Mar 08 20:55:43 2011: Prediction rot error for frame 11:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:43 2011: Prediction error for frame 17:     0.000000, -0.000023
+
+Tue Mar 08 20:55:43 2011: Prediction rot error for frame 17:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:43 2011: Prediction error for frame 22:     0.000000, -0.000019
+
+Tue Mar 08 20:55:43 2011: Prediction rot error for frame 22:     -0.000000, -0.000003
+
+Tue Mar 08 20:55:43 2011: Client 1: Read key 5
+Tue Mar 08 20:55:43 2011: Prediction error for frame 28:     -0.000003, -0.000019
+
+Tue Mar 08 20:55:43 2011: Prediction rot error for frame 28:     0.000001, -0.000003
+
+Tue Mar 08 20:55:43 2011: Prediction error for frame 33:     -0.000010, -0.000011
+
+Tue Mar 08 20:55:43 2011: Prediction rot error for frame 33:     0.000003, -0.000002
+
+Tue Mar 08 20:55:43 2011: Prediction error for frame 39:     -0.000007, -0.000019
+
+Tue Mar 08 20:55:43 2011: Prediction rot error for frame 39:     0.000001, -0.000003
+
+Tue Mar 08 20:55:43 2011: Prediction error for frame 44:     -0.000006, -0.000017
+
+Tue Mar 08 20:55:43 2011: Prediction rot error for frame 44:     0.000001, -0.000003
+
+Tue Mar 08 20:55:43 2011: Client 1: Read key 4
+Tue Mar 08 20:55:43 2011: Prediction error for frame 50:     -0.000008, -0.000019
+
+Tue Mar 08 20:55:43 2011: Prediction rot error for frame 50:     0.000001, -0.000003
+
+Tue Mar 08 20:55:43 2011: Prediction error for frame 55:     -0.000010, -0.000008
+
+Tue Mar 08 20:55:43 2011: Prediction rot error for frame 55:     0.000005, -0.000000
+
+Tue Mar 08 20:55:43 2011: Prediction error for frame 61:     -0.000010, -0.000011
+
+Tue Mar 08 20:55:43 2011: Prediction rot error for frame 61:     0.000002, -0.000002
+
+Tue Mar 08 20:55:44 2011: Prediction error for frame 3:     -0.000009, -0.000011
+
+Tue Mar 08 20:55:44 2011: Prediction rot error for frame 3:     0.000002, -0.000002
+
+Tue Mar 08 20:55:44 2011: Prediction error for frame 8:     -0.000009, -0.000010
+
+Tue Mar 08 20:55:44 2011: Prediction rot error for frame 8:     0.000002, -0.000002
+
+Tue Mar 08 20:55:44 2011: Client 1: Read key 6
+Tue Mar 08 20:55:44 2011: Prediction error for frame 14:     -0.000010, -0.000006
+
+Tue Mar 08 20:55:44 2011: Prediction rot error for frame 14:     0.000004, 0.000001
+
+Tue Mar 08 20:55:44 2011: Prediction error for frame 19:     -0.000008, -0.000002
+
+Tue Mar 08 20:55:44 2011: Prediction rot error for frame 19:     0.000003, -0.000001
+
+Tue Mar 08 20:55:44 2011: Client 1: Read key 2
+Tue Mar 08 20:55:44 2011: Prediction error for frame 25:     -0.000010, -0.000002
+
+Tue Mar 08 20:55:44 2011: Prediction rot error for frame 25:     0.000003, -0.000001
+
+Tue Mar 08 20:55:44 2011: Prediction rot error for frame 30:     0.000004, 0.000000
+
+Tue Mar 08 20:55:44 2011: Prediction rot error for frame 36:     0.000004, 0.000000
+
+Tue Mar 08 20:55:44 2011: Prediction rot error for frame 42:     0.000004, 0.000000
+
+Tue Mar 08 20:55:44 2011: Prediction rot error for frame 51:     0.000004, 0.000000
+
+Tue Mar 08 20:55:45 2011: Prediction rot error for frame 52:     0.000004, 0.000000
+
+Tue Mar 08 20:55:45 2011: Prediction rot error for frame 57:     0.000004, 0.000000
+
+Tue Mar 08 20:55:45 2011: Client 1: Read key 6
+Tue Mar 08 20:55:45 2011: Prediction error for frame 3:     -0.000006, -0.000002
+
+Tue Mar 08 20:55:45 2011: Prediction rot error for frame 3:     0.000004, -0.000001
+
+Tue Mar 08 20:55:45 2011: Prediction error for frame 4:     0.000000, 0.000001
+
+Tue Mar 08 20:55:45 2011: Prediction rot error for frame 4:     0.000004, 0.000001
+
+Tue Mar 08 20:55:45 2011: Prediction error for frame 14:     -0.000019, -0.000010
+
+Tue Mar 08 20:55:45 2011: Prediction rot error for frame 14:     0.000004, -0.000001
+
+Tue Mar 08 20:55:45 2011: Prediction error for frame 15:     -0.000002, -0.000001
+
+Tue Mar 08 20:55:45 2011: Prediction rot error for frame 15:     0.000003, -0.000001
+
+Tue Mar 08 20:55:45 2011: Client 1: Read key 2
+Tue Mar 08 20:55:45 2011: Prediction error for frame 25:     -0.000011, -0.000004
+
+Tue Mar 08 20:55:45 2011: Prediction rot error for frame 25:     0.000004, 0.000001
+
+Tue Mar 08 20:55:45 2011: Prediction rot error for frame 26:     0.000004, 0.000000
+
+Tue Mar 08 20:55:45 2011: Prediction rot error for frame 31:     0.000004, 0.000000
+
+Tue Mar 08 20:55:46 2011: Prediction rot error for frame 41:     0.000004, 0.000000
+
+Tue Mar 08 20:55:46 2011: Prediction rot error for frame 42:     0.000004, 0.000000
+
+Tue Mar 08 20:55:46 2011: Prediction rot error for frame 52:     0.000004, 0.000000
+
+Tue Mar 08 20:55:46 2011: Prediction rot error for frame 53:     0.000004, 0.000000
+
+Tue Mar 08 20:55:46 2011: Prediction rot error for frame 58:     0.000004, 0.000000
+
+Tue Mar 08 20:55:46 2011: Prediction rot error for frame 63:     0.000004, 0.000000
+
+Tue Mar 08 20:55:46 2011: Prediction rot error for frame 8:     0.000004, 0.000000
+
+Tue Mar 08 20:55:46 2011: Prediction rot error for frame 9:     0.000004, 0.000000
+
+Tue Mar 08 20:55:46 2011: Prediction rot error for frame 14:     0.000004, 0.000000
+
+Tue Mar 08 20:55:47 2011: Prediction rot error for frame 23:     0.000004, 0.000000
+
+Tue Mar 08 20:55:47 2011: Prediction rot error for frame 24:     0.000004, 0.000000
+
+Tue Mar 08 20:55:47 2011: Prediction rot error for frame 34:     0.000004, 0.000000
+
+Tue Mar 08 20:55:47 2011: Prediction rot error for frame 35:     0.000004, 0.000000
+
+Tue Mar 08 20:55:47 2011: Prediction rot error for frame 45:     0.000004, 0.000000
+
+Tue Mar 08 20:55:47 2011: Prediction rot error for frame 46:     0.000004, 0.000000
+
+Tue Mar 08 20:55:47 2011: Prediction rot error for frame 51:     0.000004, 0.000000
+
+Tue Mar 08 20:55:47 2011: Prediction rot error for frame 61:     0.000004, 0.000000
+
+Tue Mar 08 20:55:47 2011: Prediction rot error for frame 62:     0.000004, 0.000000
+
+Tue Mar 08 20:55:48 2011: Prediction rot error for frame 7:     0.000004, 0.000000
+
+Tue Mar 08 20:55:48 2011: Prediction rot error for frame 8:     0.000004, 0.000000
+
+Tue Mar 08 20:55:48 2011: Prediction rot error for frame 13:     0.000004, 0.000000
+
+Tue Mar 08 20:55:48 2011: Prediction rot error for frame 19:     0.000004, 0.000000
+
+Tue Mar 08 20:55:48 2011: Prediction rot error for frame 24:     0.000004, 0.000000
+
+Tue Mar 08 20:55:48 2011: Prediction rot error for frame 33:     0.000004, 0.000000
+
+Tue Mar 08 20:55:48 2011: Prediction rot error for frame 34:     0.000004, 0.000000
+
+Tue Mar 08 20:55:48 2011: Prediction rot error for frame 39:     0.000004, 0.000000
+
+Tue Mar 08 20:55:48 2011: Prediction rot error for frame 44:     0.000004, 0.000000
+
+Tue Mar 08 20:55:49 2011: Prediction rot error for frame 52:     0.000004, 0.000000
+
+Tue Mar 08 20:55:49 2011: Prediction rot error for frame 53:     0.000004, 0.000000
+
+Tue Mar 08 20:55:49 2011: Prediction rot error for frame 63:     0.000004, 0.000000
+
+Tue Mar 08 20:55:49 2011: Prediction rot error for frame 0:     0.000004, 0.000000
+
+Tue Mar 08 20:55:49 2011: Prediction rot error for frame 5:     0.000004, 0.000000
+
+Tue Mar 08 20:55:49 2011: Prediction rot error for frame 14:     0.000004, 0.000000
+
+Tue Mar 08 20:55:49 2011: Prediction rot error for frame 15:     0.000004, 0.000000
+
+Tue Mar 08 20:55:49 2011: Prediction rot error for frame 21:     0.000004, 0.000000
+
+Tue Mar 08 20:55:49 2011: Prediction rot error for frame 25:     0.000004, 0.000000
+
+Tue Mar 08 20:55:49 2011: Prediction rot error for frame 30:     0.000004, 0.000000
+
+Tue Mar 08 20:55:50 2011: Prediction rot error for frame 36:     0.000004, 0.000000
+
+Tue Mar 08 20:55:50 2011: Client 1: Read key 10
+Tue Mar 08 20:55:50 2011: Prediction rot error for frame 42:     0.000004, 0.000001
+
+Tue Mar 08 20:55:50 2011: Prediction error for frame 47:     0.000004, 0.000000
+
+Tue Mar 08 20:55:50 2011: Prediction rot error for frame 47:     0.000005, -0.000001
+
+Tue Mar 08 20:55:50 2011: Prediction error for frame 53:     0.000011, 0.000000
+
+Tue Mar 08 20:55:50 2011: Prediction rot error for frame 53:     0.000004, 0.000002
+
+Tue Mar 08 20:55:50 2011: Prediction error for frame 58:     0.000010, 0.000000
+
+Tue Mar 08 20:55:50 2011: Prediction rot error for frame 58:     0.000004, 0.000002
+
+Tue Mar 08 20:55:50 2011: Prediction error for frame 0:     0.000011, 0.000000
+
+Tue Mar 08 20:55:50 2011: Prediction rot error for frame 0:     0.000004, 0.000002
+
+Tue Mar 08 20:55:50 2011: Prediction error for frame 5:     0.000010, 0.000000
+
+Tue Mar 08 20:55:50 2011: Prediction rot error for frame 5:     0.000004, 0.000002
+
+Tue Mar 08 20:55:50 2011: Prediction error for frame 11:     0.000011, 0.000000
+
+Tue Mar 08 20:55:50 2011: Prediction rot error for frame 11:     0.000004, 0.000002
+
+Tue Mar 08 20:55:50 2011: Prediction error for frame 16:     0.000009, 0.000000
+
+Tue Mar 08 20:55:50 2011: Prediction rot error for frame 16:     0.000004, 0.000002
+
+Tue Mar 08 20:55:51 2011: Prediction error for frame 22:     0.000009, 0.000000
+
+Tue Mar 08 20:55:51 2011: Prediction rot error for frame 22:     0.000004, 0.000002
+
+Tue Mar 08 20:55:51 2011: Prediction error for frame 28:     0.000010, 0.000000
+
+Tue Mar 08 20:55:51 2011: Prediction rot error for frame 28:     0.000004, 0.000002
+
+Tue Mar 08 20:55:51 2011: Prediction error for frame 33:     0.000009, 0.000000
+
+Tue Mar 08 20:55:51 2011: Prediction rot error for frame 33:     0.000004, 0.000002
+
+Tue Mar 08 20:55:51 2011: Prediction error for frame 39:     0.000010, 0.000000
+
+Tue Mar 08 20:55:51 2011: Prediction rot error for frame 39:     0.000004, 0.000002
+
+Tue Mar 08 20:55:51 2011: Prediction error for frame 44:     0.000009, 0.000000
+
+Tue Mar 08 20:55:51 2011: Prediction rot error for frame 44:     0.000004, 0.000002
+
+Tue Mar 08 20:55:51 2011: Client 1: Read key 8
+Tue Mar 08 20:55:51 2011: Prediction error for frame 50:     0.000012, 0.000000
+
+Tue Mar 08 20:55:51 2011: Prediction rot error for frame 50:     0.000003, 0.000003
+
+Tue Mar 08 20:55:51 2011: Prediction error for frame 55:     0.000013, 0.000000
+
+Tue Mar 08 20:55:51 2011: Prediction rot error for frame 55:     0.000004, 0.000002
+
+Tue Mar 08 20:55:51 2011: Prediction error for frame 61:     0.000015, 0.000000
+
+Tue Mar 08 20:55:51 2011: Prediction rot error for frame 61:     0.000003, 0.000003
+
+Tue Mar 08 20:55:51 2011: Prediction error for frame 2:     0.000014, 0.000000
+
+Tue Mar 08 20:55:51 2011: Prediction rot error for frame 2:     0.000003, 0.000003
+
+Tue Mar 08 20:55:51 2011: Prediction error for frame 8:     0.000015, 0.000000
+
+Tue Mar 08 20:55:51 2011: Prediction rot error for frame 8:     0.000003, 0.000003
+
+Tue Mar 08 20:55:52 2011: Prediction error for frame 14:     0.000015, 0.000000
+
+Tue Mar 08 20:55:52 2011: Prediction rot error for frame 14:     0.000003, 0.000003
+
+Tue Mar 08 20:55:52 2011: Client 1: Read key 9
+Tue Mar 08 20:55:52 2011: Prediction error for frame 19:     0.000013, 0.000000
+
+Tue Mar 08 20:55:52 2011: Prediction rot error for frame 19:     0.000003, 0.000003
+
+Tue Mar 08 20:55:52 2011: Prediction error for frame 25:     0.000013, -0.000015
+
+Tue Mar 08 20:55:52 2011: Prediction rot error for frame 25:     0.000002, 0.000004
+
+Tue Mar 08 20:55:52 2011: Prediction error for frame 30:     0.000009, -0.000015
+
+Tue Mar 08 20:55:52 2011: Prediction rot error for frame 30:     0.000002, 0.000004
+
+Tue Mar 08 20:55:52 2011: Prediction error for frame 36:     0.000011, -0.000031
+
+Tue Mar 08 20:55:52 2011: Prediction rot error for frame 36:     0.000002, 0.000004
+
+Tue Mar 08 20:55:52 2011: Prediction error for frame 41:     0.000009, -0.000023
+
+Tue Mar 08 20:55:52 2011: Prediction rot error for frame 41:     0.000002, 0.000004
+
+Tue Mar 08 20:55:52 2011: Prediction error for frame 47:     0.000010, -0.000031
+
+Tue Mar 08 20:55:52 2011: Prediction rot error for frame 47:     0.000002, 0.000004
+
+Tue Mar 08 20:55:52 2011: Client 1: Read key 1
+Tue Mar 08 20:55:52 2011: Prediction error for frame 53:     0.000007, -0.000038
+
+Tue Mar 08 20:55:52 2011: Prediction rot error for frame 53:     0.000000, 0.000004
+
+Tue Mar 08 20:55:52 2011: Prediction error for frame 58:     0.000000, -0.000038
+
+Tue Mar 08 20:55:52 2011: Prediction rot error for frame 58:     0.000000, 0.000005
+
+Tue Mar 08 20:55:52 2011: Client 1: Read key 0
+Tue Mar 08 20:55:53 2011: Client 1: Read key 1
+Tue Mar 08 20:55:53 2011: Prediction error for frame 35:     0.000000, -0.711639
+
+Tue Mar 08 20:55:53 2011: Prediction rot error for frame 35:     0.000000, 0.000005
+
+Tue Mar 08 20:55:53 2011: Prediction error for frame 41:     0.000000, -0.000046
+
+Tue Mar 08 20:55:53 2011: Prediction rot error for frame 41:     0.000000, 0.000005
+
+Tue Mar 08 20:55:53 2011: Client 1: Read key 0
+Tue Mar 08 20:55:53 2011: Prediction error for frame 46:     0.000000, -0.779381
+
+Tue Mar 08 20:55:53 2011: Prediction rot error for frame 46:     0.000000, 0.000005
+
+Tue Mar 08 20:55:55 2011: Client 1: Read key 1
+Tue Mar 08 20:55:55 2011: Prediction error for frame 9:     0.000000, -0.678017
+
+Tue Mar 08 20:55:55 2011: Prediction rot error for frame 9:     0.000000, 0.000005
+
+Tue Mar 08 20:55:55 2011: Prediction error for frame 14:     0.000000, -0.053070
+
+Tue Mar 08 20:55:55 2011: Prediction rot error for frame 14:     0.000000, 0.000005
+
+Tue Mar 08 20:55:55 2011: Client 1: Read key 0
+Tue Mar 08 20:55:55 2011: Prediction error for frame 20:     0.000000, -1.530037
+
+Tue Mar 08 20:55:55 2011: Prediction rot error for frame 20:     0.000000, 0.000005
+
+Tue Mar 08 20:55:56 2011: Client 1: Read key 1
+Tue Mar 08 20:55:56 2011: Prediction error for frame 34:     0.000000, -0.593773
+
+Tue Mar 08 20:55:56 2011: Prediction rot error for frame 34:     0.000000, 0.000005
+
+Tue Mar 08 20:55:56 2011: Prediction error for frame 39:     0.000000, -0.000038
+
+Tue Mar 08 20:55:56 2011: Prediction rot error for frame 39:     0.000000, 0.000005
+
+Tue Mar 08 20:55:56 2011: Prediction error for frame 45:     0.000000, -0.000038
+
+Tue Mar 08 20:55:56 2011: Prediction rot error for frame 45:     0.000000, 0.000005
+
+Tue Mar 08 20:55:57 2011: Client 1: Read key 0
+Tue Mar 08 20:55:57 2011: Client 1: Read key 4
+Tue Mar 08 20:55:57 2011: Prediction error for frame 16:     -0.305742, -0.492729
+
+Tue Mar 08 20:55:57 2011: Prediction rot error for frame 16:     -0.000002, 0.000004
+
+Tue Mar 08 20:55:57 2011: Prediction error for frame 21:     -0.000015, -0.000011
+
+Tue Mar 08 20:55:57 2011: Prediction rot error for frame 21:     -0.000007, 0.000000
+
+Tue Mar 08 20:55:57 2011: Prediction error for frame 26:     -0.000015, -0.000019
+
+Tue Mar 08 20:55:57 2011: Prediction rot error for frame 26:     -0.000004, 0.000004
+
+Tue Mar 08 20:55:57 2011: Client 1: Read key 0
+Tue Mar 08 20:55:57 2011: Prediction error for frame 32:     -0.140763, 0.000000
+
+Tue Mar 08 20:55:57 2011: Prediction rot error for frame 32:     -0.000004, 0.000004
+
+Tue Mar 08 20:55:58 2011: Client 1: Read key 4
+Tue Mar 08 20:55:58 2011: Prediction error for frame 16:     -0.665219, 0.000000
+
+Tue Mar 08 20:55:58 2011: Prediction rot error for frame 16:     -0.000004, 0.000004
+
+Tue Mar 08 20:55:58 2011: Prediction error for frame 21:     -0.028874, -0.000019
+
+Tue Mar 08 20:55:58 2011: Prediction rot error for frame 21:     -0.000004, 0.000004
+
+Tue Mar 08 20:55:58 2011: Client 1: Read key 0
+Tue Mar 08 20:55:58 2011: Prediction error for frame 27:     -1.064170, 0.000000
+
+Tue Mar 08 20:55:58 2011: Prediction rot error for frame 27:     -0.000004, 0.000004
+
+Tue Mar 08 20:55:59 2011: Client 1: Read key 1
+Tue Mar 08 20:55:59 2011: Prediction error for frame 11:     -0.615942, -0.318134
+
+Tue Mar 08 20:55:59 2011: Prediction rot error for frame 11:     -0.000002, 0.000005
+
+Tue Mar 08 20:55:59 2011: Client 1: Read key 0
+Tue Mar 08 20:55:59 2011: Prediction error for frame 16:     -0.224599, -0.385124
+
+Tue Mar 08 20:55:59 2011: Prediction rot error for frame 16:     -0.000001, 0.000005
+
+Tue Mar 08 20:56:00 2011: Client 1: Read key 1
+Tue Mar 08 20:56:00 2011: Prediction error for frame 63:     -0.059379, -0.715702
+
+Tue Mar 08 20:56:00 2011: Prediction rot error for frame 63:     -0.000001, 0.000005
+
+Tue Mar 08 20:56:00 2011: Client 1: Read key 0
+Tue Mar 08 20:56:00 2011: Prediction error for frame 5:     -0.000001, -0.724686
+
+Tue Mar 08 20:56:00 2011: Prediction rot error for frame 5:     -0.000000, 0.000005
+
+Tue Mar 08 20:56:00 2011: Client 1: Read key 4
+Tue Mar 08 20:56:00 2011: Prediction error for frame 16:     -0.293396, -0.446785
+
+Tue Mar 08 20:56:00 2011: Prediction rot error for frame 16:     -0.000003, 0.000005
+
+Tue Mar 08 20:56:00 2011: Prediction error for frame 21:     -0.000018, -0.000011
+
+Tue Mar 08 20:56:00 2011: Prediction rot error for frame 21:     -0.000008, 0.000000
+
+Tue Mar 08 20:56:01 2011: Client 1: Read key 0
+Tue Mar 08 20:56:01 2011: Client 1: Read key 4
+Tue Mar 08 20:56:01 2011: Prediction error for frame 57:     -0.272003, 0.000000
+
+Tue Mar 08 20:56:01 2011: Prediction rot error for frame 57:     -0.000004, 0.000004
+
+Tue Mar 08 20:56:01 2011: Prediction error for frame 62:     -0.500669, -0.000019
+
+Tue Mar 08 20:56:01 2011: Prediction rot error for frame 62:     -0.000004, 0.000004
+
+Tue Mar 08 20:56:01 2011: Client 1: Read key 0
+Tue Mar 08 20:56:01 2011: Prediction error for frame 4:     -0.374687, 0.000000
+
+Tue Mar 08 20:56:01 2011: Prediction rot error for frame 4:     -0.000004, 0.000004
+
+Tue Mar 08 20:56:02 2011: Client 1: Read key 1
+Tue Mar 08 20:56:02 2011: Prediction error for frame 21:     -0.634041, -0.202232
+
+Tue Mar 08 20:56:02 2011: Prediction rot error for frame 21:     -0.000003, 0.000005
+
+Tue Mar 08 20:56:02 2011: Prediction error for frame 26:     -0.015846, -0.023167
+
+Tue Mar 08 20:56:02 2011: Prediction rot error for frame 26:     -0.000001, 0.000006
+
+Tue Mar 08 20:56:02 2011: Prediction error for frame 32:     -0.000003, -0.000038
+
+Tue Mar 08 20:56:02 2011: Prediction rot error for frame 32:     -0.000001, 0.000006
+
+Tue Mar 08 20:56:02 2011: Client 1: Read key 0
+Tue Mar 08 20:56:02 2011: Prediction error for frame 37:     -0.000001, -0.779381
+
+Tue Mar 08 20:56:02 2011: Prediction rot error for frame 37:     -0.000000, 0.000006
+
+Tue Mar 08 20:56:02 2011: Client 1: Read key 4
+Tue Mar 08 20:56:02 2011: Prediction error for frame 3:     -0.116580, -0.499859
+
+Tue Mar 08 20:56:02 2011: Prediction rot error for frame 3:     -0.000001, 0.000006
+
+Tue Mar 08 20:56:02 2011: Prediction error for frame 8:     -0.177567, -0.167866
+
+Tue Mar 08 20:56:02 2011: Prediction rot error for frame 8:     -0.000003, 0.000005
+
+Tue Mar 08 20:56:03 2011: Client 1: Read key 0
+Tue Mar 08 20:56:03 2011: Prediction error for frame 14:     -1.093146, -0.094227
+
+Tue Mar 08 20:56:03 2011: Prediction rot error for frame 14:     -0.000009, 0.000000
+
+Tue Mar 08 20:56:03 2011: Client 1: Read key 4
+Tue Mar 08 20:56:03 2011: Prediction error for frame 43:     -0.665220, 0.000000
+
+Tue Mar 08 20:56:03 2011: Prediction rot error for frame 43:     -0.000005, 0.000005
+
+Tue Mar 08 20:56:03 2011: Client 1: Read key 5
+Tue Mar 08 20:56:03 2011: Prediction error for frame 48:     -0.014268, -0.007835
+
+Tue Mar 08 20:56:03 2011: Prediction rot error for frame 48:     -0.000007, 0.000004
+
+Tue Mar 08 20:56:03 2011: Client 1: Read key 0
+Tue Mar 08 20:56:03 2011: Prediction error for frame 54:     -0.311357, -0.187992
+
+Tue Mar 08 20:56:03 2011: Prediction rot error for frame 54:     -0.000003, 0.000006
+
+Tue Mar 08 20:56:04 2011: Client 1: Read key 1
+Tue Mar 08 20:56:04 2011: Prediction error for frame 26:     -0.483849, -0.551136
+
+Tue Mar 08 20:56:04 2011: Prediction rot error for frame 26:     -0.000002, 0.000007
+
+Tue Mar 08 20:56:04 2011: Client 1: Read key 0
+Tue Mar 08 20:56:04 2011: Prediction error for frame 31:     -0.153028, -1.305367
+
+Tue Mar 08 20:56:04 2011: Prediction rot error for frame 31:     -0.000001, 0.000007
+
+Tue Mar 08 20:56:04 2011: Client 1: Read key 4
+Tue Mar 08 20:56:04 2011: Prediction error for frame 37:     -0.116582, -0.499863
+
+Tue Mar 08 20:56:04 2011: Prediction rot error for frame 37:     -0.000001, 0.000007
+
+Tue Mar 08 20:56:04 2011: Prediction error for frame 42:     -0.175042, -0.167240
+
+Tue Mar 08 20:56:04 2011: Prediction rot error for frame 42:     -0.000004, 0.000006
+
+Tue Mar 08 20:56:04 2011: Prediction error for frame 47:     -0.000019, -0.000008
+
+Tue Mar 08 20:56:04 2011: Prediction rot error for frame 47:     -0.000010, 0.000000
+
+Tue Mar 08 20:56:04 2011: Prediction error for frame 53:     -0.000027, -0.000023
+
+Tue Mar 08 20:56:04 2011: Prediction rot error for frame 53:     -0.000005, 0.000005
+
+Tue Mar 08 20:56:04 2011: Prediction error for frame 58:     -0.000021, -0.000019
+
+Tue Mar 08 20:56:04 2011: Prediction rot error for frame 58:     -0.000005, 0.000005
+
+Tue Mar 08 20:56:05 2011: Client 1: Read key 6
+Tue Mar 08 20:56:05 2011: Prediction error for frame 0:     -0.000025, -0.000023
+
+Tue Mar 08 20:56:05 2011: Prediction rot error for frame 0:     -0.000006, 0.000005
+
+Tue Mar 08 20:56:05 2011: Client 1: Read key 2
+Tue Mar 08 20:56:05 2011: Prediction error for frame 5:     -0.000019, -0.000004
+
+Tue Mar 08 20:56:05 2011: Prediction rot error for frame 5:     -0.000007, 0.000002
+
+Tue Mar 08 20:56:05 2011: Prediction error for frame 11:     -0.000004, 0.000000
+
+Tue Mar 08 20:56:05 2011: Prediction rot error for frame 11:     -0.000008, -0.000001
+
+Tue Mar 08 20:56:05 2011: Prediction rot error for frame 16:     -0.000008, -0.000000
+
+Tue Mar 08 20:56:05 2011: Prediction rot error for frame 22:     -0.000008, -0.000000
+
+Tue Mar 08 20:56:05 2011: Client 1: Read key 10
+Tue Mar 08 20:56:05 2011: Prediction error for frame 28:     0.000002, 0.000000
+
+Tue Mar 08 20:56:05 2011: Prediction rot error for frame 28:     -0.000008, -0.000001
+
+Tue Mar 08 20:56:05 2011: Client 1: Read key 8
+Tue Mar 08 20:56:05 2011: Prediction error for frame 33:     0.000019, -0.000008
+
+Tue Mar 08 20:56:05 2011: Prediction rot error for frame 33:     -0.000007, -0.000004
+
+Tue Mar 08 20:56:05 2011: Client 1: Read key 0
+Tue Mar 08 20:56:05 2011: Prediction error for frame 39:     0.124376, 0.040409
+
+Tue Mar 08 20:56:05 2011: Prediction rot error for frame 39:     -0.000007, -0.000005
+
+Tue Mar 08 20:56:05 2011: Client 1: Read key 4
+Tue Mar 08 20:56:05 2011: Prediction error for frame 44:     0.451792, 0.487057
+
+Tue Mar 08 20:56:05 2011: Prediction rot error for frame 44:     -0.000009, -0.000002
+
+Tue Mar 08 20:56:05 2011: Prediction error for frame 49:     -0.000004, -0.000004
+
+Tue Mar 08 20:56:05 2011: Prediction rot error for frame 49:     -0.000009, 0.000002
+
+Tue Mar 08 20:56:06 2011: Prediction error for frame 55:     -0.000027, -0.000011
+
+Tue Mar 08 20:56:06 2011: Prediction rot error for frame 55:     -0.000007, 0.000006
+
+Tue Mar 08 20:56:06 2011: Client 1: Read key 6
+Tue Mar 08 20:56:06 2011: Prediction error for frame 60:     -0.000025, -0.000004
+
+Tue Mar 08 20:56:06 2011: Prediction rot error for frame 60:     -0.000013, -0.000001
+
+Tue Mar 08 20:56:06 2011: Prediction error for frame 2:     -0.000015, 0.000000
+
+Tue Mar 08 20:56:06 2011: Prediction rot error for frame 2:     -0.000011, -0.000003
+
+Tue Mar 08 20:56:06 2011: Prediction error for frame 8:     -0.000025, -0.000004
+
+Tue Mar 08 20:56:06 2011: Prediction rot error for frame 8:     -0.000009, 0.000004
+
+Tue Mar 08 20:56:06 2011: Prediction error for frame 13:     -0.000019, 0.000000
+
+Tue Mar 08 20:56:06 2011: Prediction rot error for frame 13:     -0.000009, 0.000004
+
+Tue Mar 08 20:56:06 2011: Client 1: Read key 4
+Tue Mar 08 20:56:06 2011: Prediction error for frame 19:     -0.000029, -0.000015
+
+Tue Mar 08 20:56:06 2011: Prediction rot error for frame 19:     -0.000007, 0.000006
+
+Tue Mar 08 20:56:06 2011: Prediction error for frame 24:     -0.000029, 0.000000
+
+Tue Mar 08 20:56:06 2011: Prediction rot error for frame 24:     -0.000013, 0.000000
+
+Tue Mar 08 20:56:06 2011: Prediction error for frame 30:     -0.000031, -0.000038
+
+Tue Mar 08 20:56:06 2011: Prediction rot error for frame 30:     -0.000007, 0.000007
+
+Tue Mar 08 20:56:06 2011: Prediction error for frame 35:     -0.000027, -0.000034
+
+Tue Mar 08 20:56:06 2011: Prediction rot error for frame 35:     -0.000007, 0.000007
+
+Tue Mar 08 20:56:06 2011: Client 1: Read key 1
+Tue Mar 08 20:56:06 2011: Prediction error for frame 41:     -0.000027, -0.000053
+
+Tue Mar 08 20:56:06 2011: Prediction rot error for frame 41:     -0.000004, 0.000009
+
+Tue Mar 08 20:56:06 2011: Prediction error for frame 46:     -0.000011, -0.000065
+
+Tue Mar 08 20:56:06 2011: Prediction rot error for frame 46:     -0.000001, 0.000010
+
+Tue Mar 08 20:56:07 2011: Prediction error for frame 52:     0.000000, -0.000072
+
+Tue Mar 08 20:56:07 2011: Prediction rot error for frame 52:     -0.000000, 0.000010
+
+Tue Mar 08 20:56:07 2011: Prediction error for frame 57:     0.000000, -0.000061
+
+Tue Mar 08 20:56:07 2011: Prediction rot error for frame 57:     -0.000000, 0.000010
+
+Tue Mar 08 20:56:07 2011: Prediction error for frame 63:     0.000000, -0.000069
+
+Tue Mar 08 20:56:07 2011: Prediction rot error for frame 63:     -0.000000, 0.000010
+
+Tue Mar 08 20:56:07 2011: Prediction error for frame 5:     0.000000, -0.000069
+
+Tue Mar 08 20:56:07 2011: Prediction rot error for frame 5:     -0.000000, 0.000010
+
+Tue Mar 08 20:56:07 2011: Prediction error for frame 10:     0.000000, -0.000061
+
+Tue Mar 08 20:56:07 2011: Prediction rot error for frame 10:     -0.000001, 0.000010
+
+Tue Mar 08 20:56:07 2011: Client 1: Read key 8
+Tue Mar 08 20:56:07 2011: Prediction error for frame 16:     0.000015, -0.000069
+
+Tue Mar 08 20:56:07 2011: Prediction rot error for frame 16:     0.000004, 0.000009
+
+Tue Mar 08 20:56:07 2011: Prediction error for frame 21:     0.000031, -0.000034
+
+Tue Mar 08 20:56:07 2011: Prediction rot error for frame 21:     0.000015, 0.000000
+
+Tue Mar 08 20:56:07 2011: Prediction error for frame 27:     0.000031, -0.000046
+
+Tue Mar 08 20:56:07 2011: Prediction rot error for frame 27:     0.000008, 0.000008
+
+Tue Mar 08 20:56:07 2011: Client 1: Read key 5
+Tue Mar 08 20:56:07 2011: Prediction error for frame 32:     0.000031, -0.000038
+
+Tue Mar 08 20:56:07 2011: Prediction rot error for frame 32:     0.000006, 0.000009
+
+Tue Mar 08 20:56:08 2011: Prediction error for frame 38:     0.000017, -0.000080
+
+Tue Mar 08 20:56:08 2011: Prediction rot error for frame 38:     0.000001, 0.000011
+
+Tue Mar 08 20:56:08 2011: Prediction error for frame 43:     -0.000011, -0.000069
+
+Tue Mar 08 20:56:08 2011: Prediction rot error for frame 43:     -0.000004, 0.000011
+
+Tue Mar 08 20:56:08 2011: Prediction error for frame 49:     -0.000046, -0.000053
+
+Tue Mar 08 20:56:08 2011: Prediction rot error for frame 49:     -0.000011, 0.000008
+
+Tue Mar 08 20:56:08 2011: Prediction error for frame 54:     -0.000023, -0.000057
+
+Tue Mar 08 20:56:08 2011: Prediction rot error for frame 54:     -0.000004, 0.000011
+
+Tue Mar 08 20:56:08 2011: Prediction error for frame 58:     -0.000027, -0.000057
+
+Tue Mar 08 20:56:08 2011: Prediction rot error for frame 58:     -0.000004, 0.000011
+
+Tue Mar 08 20:56:08 2011: Client 1: Read key 1
+Tue Mar 08 20:56:08 2011: Prediction error for frame 0:     -0.000019, -0.000095
+
+Tue Mar 08 20:56:08 2011: Prediction rot error for frame 0:     -0.000001, 0.000012
+
+Tue Mar 08 20:56:08 2011: Client 1: Read key 9
+Tue Mar 08 20:56:08 2011: Prediction error for frame 6:     0.000023, -0.000084
+
+Tue Mar 08 20:56:08 2011: Prediction rot error for frame 6:     0.000013, 0.000008
+
+Tue Mar 08 20:56:08 2011: Client 1: Read key 5
+Tue Mar 08 20:56:08 2011: Prediction error for frame 11:     0.000019, -0.000069
+
+Tue Mar 08 20:56:08 2011: Prediction rot error for frame 11:     0.000004, 0.000012
+
+Tue Mar 08 20:56:08 2011: Prediction error for frame 17:     0.000004, -0.000088
+
+Tue Mar 08 20:56:08 2011: Prediction rot error for frame 17:     -0.000002, 0.000012
+
+Tue Mar 08 20:56:08 2011: Prediction error for frame 22:     -0.000038, -0.000061
+
+Tue Mar 08 20:56:08 2011: Prediction rot error for frame 22:     -0.000012, 0.000009
+
+Tue Mar 08 20:56:09 2011: Prediction error for frame 28:     -0.000042, -0.000065
+
+Tue Mar 08 20:56:09 2011: Prediction rot error for frame 28:     -0.000008, 0.000010
+
+Tue Mar 08 20:56:09 2011: Prediction error for frame 33:     -0.000046, -0.000061
+
+Tue Mar 08 20:56:09 2011: Prediction rot error for frame 33:     -0.000015, 0.000008
+
+Tue Mar 08 20:56:09 2011: Prediction error for frame 39:     -0.000038, -0.000080
+
+Tue Mar 08 20:56:09 2011: Prediction rot error for frame 39:     -0.000005, 0.000012
+
+Tue Mar 08 20:56:09 2011: Prediction error for frame 44:     -0.000023, -0.000071
+
+Tue Mar 08 20:56:09 2011: Prediction rot error for frame 44:     -0.000005, 0.000012
+
+Tue Mar 08 20:56:09 2011: Client 1: Read key 1
+Tue Mar 08 20:56:09 2011: Prediction error for frame 50:     -0.000011, -0.000092
+
+Tue Mar 08 20:56:09 2011: Prediction rot error for frame 50:     -0.000000, 0.000013
+
+Tue Mar 08 20:56:09 2011: Client 1: Read key 9
+Tue Mar 08 20:56:09 2011: Prediction error for frame 56:     0.000000, -0.000099
+
+Tue Mar 08 20:56:09 2011: Prediction rot error for frame 56:     0.000001, 0.000013
+
+Tue Mar 08 20:56:09 2011: Prediction error for frame 61:     0.000027, -0.000071
+
+Tue Mar 08 20:56:09 2011: Prediction rot error for frame 61:     0.000005, 0.000012
+
+Tue Mar 08 20:56:09 2011: Client 1: Read key 8
+Tue Mar 08 20:56:09 2011: Prediction error for frame 2:     0.000042, -0.000061
+
+Tue Mar 08 20:56:09 2011: Prediction rot error for frame 2:     0.000009, 0.000010
+
+Tue Mar 08 20:56:09 2011: Prediction error for frame 8:     0.000046, 0.000000
+
+Tue Mar 08 20:56:09 2011: Prediction rot error for frame 8:     0.000019, 0.000000
+
+Tue Mar 08 20:56:09 2011: Prediction error for frame 14:     0.000046, -0.000050
+
+Tue Mar 08 20:56:09 2011: Prediction rot error for frame 14:     0.000010, 0.000010
+
+Tue Mar 08 20:56:09 2011: Prediction error for frame 19:     0.000038, -0.000040
+
+Tue Mar 08 20:56:09 2011: Prediction rot error for frame 19:     0.000010, 0.000010
+
+Tue Mar 08 20:56:10 2011: Prediction error for frame 25:     0.000053, -0.000048
+
+Tue Mar 08 20:56:10 2011: Prediction rot error for frame 25:     0.000010, 0.000010
+
+Tue Mar 08 20:56:10 2011: Prediction error for frame 30:     0.000046, -0.000040
+
+Tue Mar 08 20:56:10 2011: Prediction rot error for frame 30:     0.000010, 0.000010
+
+Tue Mar 08 20:56:10 2011: Prediction error for frame 36:     0.000051, -0.000050
+
+Tue Mar 08 20:56:10 2011: Prediction rot error for frame 36:     0.000010, 0.000010
+
+Tue Mar 08 20:56:10 2011: Prediction error for frame 42:     0.000053, -0.000050
+
+Tue Mar 08 20:56:10 2011: Prediction rot error for frame 42:     0.000010, 0.000010
+
+Tue Mar 08 20:56:10 2011: Prediction error for frame 47:     0.000048, -0.000040
+
+Tue Mar 08 20:56:10 2011: Prediction rot error for frame 47:     0.000010, 0.000010
+
+Tue Mar 08 20:56:10 2011: Client 1: Read key 0
+Tue Mar 08 20:56:10 2011: Prediction error for frame 53:     1.073500, -0.000008
+
+Tue Mar 08 20:56:10 2011: Prediction rot error for frame 53:     0.000010, 0.000010
+
+Tue Mar 08 20:56:10 2011: Client 1: Read key 2
+Tue Mar 08 20:56:10 2011: Prediction error for frame 0:     0.269360, 0.037855
+
+Tue Mar 08 20:56:10 2011: Prediction rot error for frame 0:     0.000010, 0.000009
+
+Tue Mar 08 20:56:10 2011: Prediction error for frame 5:     0.383905, 0.287724
+
+Tue Mar 08 20:56:10 2011: Prediction rot error for frame 5:     0.000013, 0.000004
+
+Tue Mar 08 20:56:11 2011: Client 1: Read key 6
+Tue Mar 08 20:56:11 2011: Prediction error for frame 11:     0.000000, -0.000002
+
+Tue Mar 08 20:56:11 2011: Prediction rot error for frame 11:     0.000014, -0.000003
+
+Tue Mar 08 20:56:11 2011: Prediction error for frame 16:     -0.000015, 0.000002
+
+Tue Mar 08 20:56:11 2011: Prediction rot error for frame 16:     0.000017, 0.000003
+
+Tue Mar 08 20:56:11 2011: Prediction error for frame 22:     -0.000034, -0.000021
+
+Tue Mar 08 20:56:11 2011: Prediction rot error for frame 22:     0.000013, -0.000006
+
+Tue Mar 08 20:56:11 2011: Prediction error for frame 27:     -0.000031, -0.000015
+
+Tue Mar 08 20:56:11 2011: Prediction rot error for frame 27:     0.000013, -0.000006
+
+Tue Mar 08 20:56:11 2011: Prediction error for frame 33:     -0.000034, -0.000015
+
+Tue Mar 08 20:56:11 2011: Prediction rot error for frame 33:     0.000013, -0.000006
+
+Tue Mar 08 20:56:11 2011: Prediction error for frame 39:     -0.000034, -0.000011
+
+Tue Mar 08 20:56:11 2011: Prediction rot error for frame 39:     0.000013, -0.000006
+
+Tue Mar 08 20:56:11 2011: Client 1: Read key 4
+Tue Mar 08 20:56:11 2011: Prediction error for frame 44:     -0.000034, -0.000019
+
+Tue Mar 08 20:56:11 2011: Prediction rot error for frame 44:     0.000012, -0.000009
+
+Tue Mar 08 20:56:11 2011: Prediction error for frame 50:     -0.000057, -0.000031
+
+Tue Mar 08 20:56:11 2011: Prediction rot error for frame 50:     0.000014, -0.000007
+
+Tue Mar 08 20:56:11 2011: Prediction error for frame 55:     -0.000048, -0.000042
+
+Tue Mar 08 20:56:11 2011: Prediction rot error for frame 55:     0.000010, -0.000010
+
+Tue Mar 08 20:56:11 2011: Prediction error for frame 61:     -0.000053, -0.000050
+
+Tue Mar 08 20:56:11 2011: Prediction rot error for frame 61:     0.000010, -0.000010
+
+Tue Mar 08 20:56:11 2011: Client 1: Read key 6
+Tue Mar 08 20:56:12 2011: Prediction error for frame 2:     -0.000038, -0.000038
+
+Tue Mar 08 20:56:12 2011: Prediction rot error for frame 2:     0.000011, -0.000010
+
+Tue Mar 08 20:56:12 2011: Prediction error for frame 8:     -0.000031, -0.000004
+
+Tue Mar 08 20:56:12 2011: Prediction rot error for frame 8:     0.000018, 0.000005
+
+Tue Mar 08 20:56:12 2011: Client 1: Read key 2
+Tue Mar 08 20:56:12 2011: Prediction error for frame 13:     -0.000019, -0.000004
+
+Tue Mar 08 20:56:12 2011: Prediction rot error for frame 13:     0.000015, -0.000001
+
+Tue Mar 08 20:56:12 2011: Prediction rot error for frame 19:     0.000015, 0.000002
+
+Tue Mar 08 20:56:12 2011: Prediction rot error for frame 24:     0.000015, 0.000000
+
+Tue Mar 08 20:56:12 2011: Prediction rot error for frame 30:     0.000015, 0.000000
+
+Tue Mar 08 20:56:12 2011: Prediction rot error for frame 36:     0.000015, 0.000000
+
+Tue Mar 08 20:56:12 2011: Client 1: Read key 0
+Tue Mar 08 20:56:12 2011: Prediction error for frame 41:     0.000000, 0.420963
+
+Tue Mar 08 20:56:12 2011: Prediction rot error for frame 41:     0.000015, 0.000000
+
+Tue Mar 08 20:56:14 2011: Client 1: Read key 2
+Tue Mar 08 20:56:14 2011: Prediction error for frame 63:     0.000000, 0.715279
+
+Tue Mar 08 20:56:14 2011: Prediction rot error for frame 63:     0.000015, 0.000000
+
+Tue Mar 08 20:56:14 2011: Prediction rot error for frame 4:     0.000015, 0.000000
+
+Tue Mar 08 20:56:14 2011: Client 1: Read key 0
+Tue Mar 08 20:56:14 2011: Prediction error for frame 10:     0.000000, 0.677025
+
+Tue Mar 08 20:56:14 2011: Prediction rot error for frame 10:     0.000015, 0.000000
+
+Tue Mar 08 20:56:14 2011: Client 1: Read key 1
+Tue Mar 08 20:56:14 2011: Prediction error for frame 21:     0.202232, 0.634029
+
+Tue Mar 08 20:56:14 2011: Prediction rot error for frame 21:     0.000015, 0.000003
+
+Tue Mar 08 20:56:14 2011: Prediction error for frame 26:     0.013435, 0.009037
+
+Tue Mar 08 20:56:14 2011: Prediction rot error for frame 26:     0.000012, 0.000009
+
+Tue Mar 08 20:56:14 2011: Prediction error for frame 32:     0.000061, -0.000072
+
+Tue Mar 08 20:56:14 2011: Prediction rot error for frame 32:     0.000006, 0.000014
+
+Tue Mar 08 20:56:14 2011: Client 1: Read key 5
+Tue Mar 08 20:56:14 2011: Prediction error for frame 37:     0.000019, -0.000088
+
+Tue Mar 08 20:56:14 2011: Prediction rot error for frame 37:     0.000001, 0.000016
+
+Tue Mar 08 20:56:15 2011: Prediction error for frame 43:     -0.000031, -0.000107
+
+Tue Mar 08 20:56:15 2011: Prediction rot error for frame 43:     -0.000016, 0.000011
+
+Tue Mar 08 20:56:15 2011: Prediction error for frame 49:     -0.000034, -0.000107
+
+Tue Mar 08 20:56:15 2011: Prediction rot error for frame 49:     -0.000006, 0.000015
+
+Tue Mar 08 20:56:15 2011: Client 1: Read key 4
+Tue Mar 08 20:56:15 2011: Prediction error for frame 54:     -0.000031, -0.000088
+
+Tue Mar 08 20:56:15 2011: Prediction rot error for frame 54:     -0.000007, 0.000014
+
+Tue Mar 08 20:56:15 2011: Prediction error for frame 60:     -0.000065, -0.000053
+
+Tue Mar 08 20:56:15 2011: Prediction rot error for frame 60:     -0.000019, 0.000004
+
+Tue Mar 08 20:56:15 2011: Prediction error for frame 1:     -0.000057, -0.000057
+
+Tue Mar 08 20:56:15 2011: Prediction rot error for frame 1:     -0.000012, 0.000012
+
+Tue Mar 08 20:56:15 2011: Prediction error for frame 7:     -0.000061, -0.000069
+
+Tue Mar 08 20:56:15 2011: Prediction rot error for frame 7:     -0.000012, 0.000012
+
+Tue Mar 08 20:56:15 2011: Client 1: Read key 6
+Tue Mar 08 20:56:15 2011: Prediction error for frame 13:     -0.000065, -0.000065
+
+Tue Mar 08 20:56:15 2011: Prediction rot error for frame 13:     -0.000012, 0.000011
+
+Tue Mar 08 20:56:15 2011: Client 1: Read key 2
+Tue Mar 08 20:56:15 2011: Prediction error for frame 18:     -0.000038, -0.000027
+
+Tue Mar 08 20:56:15 2011: Prediction rot error for frame 18:     -0.000016, 0.000005
+
+Tue Mar 08 20:56:15 2011: Client 1: Read key 0
+Tue Mar 08 20:56:15 2011: Prediction error for frame 24:     -0.063011, 0.129189
+
+Tue Mar 08 20:56:15 2011: Prediction rot error for frame 24:     -0.000016, 0.000004
+

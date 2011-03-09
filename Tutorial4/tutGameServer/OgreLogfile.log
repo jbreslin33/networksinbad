@@ -1,0 +1,444 @@
+00:08:34: Creating resource group General
+00:08:34: Creating resource group Internal
+00:08:34: Creating resource group Autodetect
+00:08:34: SceneManagerFactory for type 'DefaultSceneManager' registered.
+00:08:34: Registering ResourceManager for type Material
+00:08:34: Registering ResourceManager for type Mesh
+00:08:34: Registering ResourceManager for type Skeleton
+00:08:34: MovableObjectFactory for type 'ParticleSystem' registered.
+00:08:34: OverlayElementFactory for type Panel registered.
+00:08:34: OverlayElementFactory for type BorderPanel registered.
+00:08:34: OverlayElementFactory for type TextArea registered.
+00:08:34: Registering ResourceManager for type Font
+00:08:34: ArchiveFactory for archive type FileSystem registered.
+00:08:34: ArchiveFactory for archive type Zip registered.
+00:08:34: DDS codec registering
+00:08:34: FreeImage version: 3.13.1
+00:08:34: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+00:08:34: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic,bay,bmq,cr2,crw,cs1,dc2,dcr,dng,erf,fff,hdr,k25,kdc,mdc,mos,mrw,nef,orf,pef,pxn,raf,raw,rdc,sr2,srf,arw,3fr,cine,ia,kc2,mef,nrw,qtk,rw2,sti,drf,dsc,ptx,cap,iiq,rwz
+00:08:34: Registering ResourceManager for type HighLevelGpuProgram
+00:08:34: Registering ResourceManager for type Compositor
+00:08:34: MovableObjectFactory for type 'Entity' registered.
+00:08:34: MovableObjectFactory for type 'Light' registered.
+00:08:34: MovableObjectFactory for type 'BillboardSet' registered.
+00:08:34: MovableObjectFactory for type 'ManualObject' registered.
+00:08:34: MovableObjectFactory for type 'BillboardChain' registered.
+00:08:34: MovableObjectFactory for type 'RibbonTrail' registered.
+00:08:34: Loading library .\RenderSystem_Direct3D9
+00:08:34: Installing plugin: D3D9 RenderSystem
+00:08:34: D3D9 : Direct3D9 Rendering Subsystem created.
+00:08:34: D3D9: Driver Detection Starts
+00:08:34: D3D9: Driver Detection Ends
+00:08:34: Plugin successfully installed
+00:08:34: Loading library .\RenderSystem_GL
+00:08:34: Installing plugin: GL RenderSystem
+00:08:34: OpenGL Rendering Subsystem created.
+00:08:34: Plugin successfully installed
+00:08:34: Loading library .\Plugin_ParticleFX
+00:08:34: Installing plugin: ParticleFX
+00:08:34: Particle Emitter Type 'Point' registered
+00:08:34: Particle Emitter Type 'Box' registered
+00:08:34: Particle Emitter Type 'Ellipsoid' registered
+00:08:34: Particle Emitter Type 'Cylinder' registered
+00:08:34: Particle Emitter Type 'Ring' registered
+00:08:34: Particle Emitter Type 'HollowEllipsoid' registered
+00:08:34: Particle Affector Type 'LinearForce' registered
+00:08:34: Particle Affector Type 'ColourFader' registered
+00:08:34: Particle Affector Type 'ColourFader2' registered
+00:08:34: Particle Affector Type 'ColourImage' registered
+00:08:34: Particle Affector Type 'ColourInterpolator' registered
+00:08:34: Particle Affector Type 'Scaler' registered
+00:08:34: Particle Affector Type 'Rotator' registered
+00:08:34: Particle Affector Type 'DirectionRandomiser' registered
+00:08:34: Particle Affector Type 'DeflectorPlane' registered
+00:08:34: Plugin successfully installed
+00:08:34: Loading library .\Plugin_BSPSceneManager
+00:08:34: Installing plugin: BSP Scene Manager
+00:08:34: Plugin successfully installed
+00:08:34: Loading library .\Plugin_CgProgramManager
+00:08:35: Installing plugin: Cg Program Manager
+00:08:35: Plugin successfully installed
+00:08:35: Loading library .\Plugin_PCZSceneManager
+00:08:36: Installing plugin: Portal Connected Zone Scene Manager
+00:08:36: PCZone Factory Type 'ZoneType_Default' registered
+00:08:36: Plugin successfully installed
+00:08:36: Loading library .\Plugin_OctreeZone
+00:08:36: Installing plugin: Octree Zone Factory
+00:08:36: Plugin successfully installed
+00:08:36: Loading library .\Plugin_OctreeSceneManager
+00:08:36: Installing plugin: Octree & Terrain Scene Manager
+00:08:36: Plugin successfully installed
+00:08:36: *-*-* OGRE Initialising
+00:08:36: *-*-* Version 1.7.0 (Cthugha)
+00:08:36: D3D9 : RenderSystem Option: Allow NVPerfHUD = No
+00:08:36: D3D9 : RenderSystem Option: FSAA = 0
+00:08:36: D3D9 : RenderSystem Option: Floating-point mode = Fastest
+00:08:36: D3D9 : RenderSystem Option: Full Screen = No
+00:08:36: D3D9 : RenderSystem Option: Rendering Device = Monitor-1-RADEON X600 256MB HyperMemory
+00:08:36: D3D9 : RenderSystem Option: Resource Creation Policy = Create on all devices
+00:08:36: D3D9 : RenderSystem Option: VSync = No
+00:08:36: D3D9 : RenderSystem Option: VSync Interval = 1
+00:08:36: D3D9 : RenderSystem Option: Video Mode = 800 x 600 @ 32-bit colour
+00:08:36: D3D9 : RenderSystem Option: sRGB Gamma Conversion = No
+00:08:38: CPU Identifier & Features
+00:08:38: -------------------------
+00:08:38:  *   CPU ID: GenuineIntel: Intel(R) Pentium(R) 4 CPU 3.00GHz
+00:08:38:  *      SSE: yes
+00:08:38:  *     SSE2: yes
+00:08:38:  *     SSE3: yes
+00:08:38:  *      MMX: yes
+00:08:38:  *   MMXEXT: yes
+00:08:38:  *    3DNOW: no
+00:08:38:  * 3DNOWEXT: no
+00:08:38:  *     CMOV: yes
+00:08:38:  *      TSC: yes
+00:08:38:  *      FPU: yes
+00:08:38:  *      PRO: yes
+00:08:38:  *       HT: yes
+00:08:38: -------------------------
+00:08:38: D3D9 : Subsystem Initialising
+00:08:38: Registering ResourceManager for type Texture
+00:08:38: Registering ResourceManager for type GpuProgram
+00:08:38: D3D9RenderSystem::_createRenderWindow "DemoApp v1.0", 800x600 windowed  miscParams: FSAA=0 FSAAHint= colourDepth=32 gamma=false monitorIndex=0 useNVPerfHUD=false vsync=false vsyncInterval=1 
+00:08:38: D3D9 : Created D3D9 Rendering Window 'DemoApp v1.0' : 800x600, 32bpp
+00:08:38: D3D9 : WARNING - disabling VSync in windowed mode can cause timing issues at lower frame rates, turn VSync on if you observe this problem.
+00:08:38: RenderSystem capabilities
+00:08:38: -------------------------
+00:08:38: RenderSystem Name: Direct3D9 Rendering Subsystem
+00:08:38: GPU Vendor: ati
+00:08:38: Device Name: Monitor-1-RADEON X600 256MB HyperMemory
+00:08:38: Driver Version: 6.14.10.6601
+00:08:38:  * Fixed function pipeline: yes
+00:08:38:  * Hardware generation of mipmaps: yes
+00:08:38:  * Texture blending: yes
+00:08:38:  * Anisotropic texture filtering: yes
+00:08:38:  * Dot product texture operation: yes
+00:08:38:  * Cube mapping: yes
+00:08:38:  * Hardware stencil buffer: yes
+00:08:38:    - Stencil depth: 8
+00:08:38:    - Two sided stencil support: yes
+00:08:38:    - Wrap stencil values: yes
+00:08:38:  * Hardware vertex / index buffers: yes
+00:08:38:  * Vertex programs: yes
+00:08:38:  * Number of floating-point constants for vertex programs: 256
+00:08:38:  * Number of integer constants for vertex programs: 16
+00:08:38:  * Number of boolean constants for vertex programs: 16
+00:08:38:  * Fragment programs: yes
+00:08:38:  * Number of floating-point constants for fragment programs: 32
+00:08:38:  * Number of integer constants for fragment programs: 16
+00:08:38:  * Number of boolean constants for fragment programs: 16
+00:08:38:  * Geometry programs: no
+00:08:38:  * Number of floating-point constants for geometry programs: 0
+00:08:38:  * Number of integer constants for geometry programs: 0
+00:08:38:  * Number of boolean constants for geometry programs: 0
+00:08:38:  * Supported Shader Profiles: hlsl ps_1_1 ps_1_2 ps_1_3 ps_1_4 ps_2_0 vs_1_1 vs_2_0
+00:08:38:  * Texture Compression: yes
+00:08:38:    - DXT: yes
+00:08:38:    - VTC: no
+00:08:38:    - PVRTC: no
+00:08:38:  * Scissor Rectangle: yes
+00:08:38:  * Hardware Occlusion Query: yes
+00:08:38:  * User clip planes: yes
+00:08:38:  * VET_UBYTE4 vertex element type: yes
+00:08:38:  * Infinite far plane projection: yes
+00:08:38:  * Hardware render-to-texture: yes
+00:08:38:  * Floating point textures: yes
+00:08:38:  * Non-power-of-two textures: yes (limited)
+00:08:38:  * Volume textures: yes
+00:08:38:  * Multiple Render Targets: 4
+00:08:38:    - With different bit depths: no
+00:08:38:  * Point Sprites: yes
+00:08:38:  * Extended point parameters: yes
+00:08:38:  * Max Point Size: 10
+00:08:38:  * Vertex texture fetch: no
+00:08:38:  * Number of world matrices: 0
+00:08:38:  * Number of texture units: 8
+00:08:38:  * Stencil buffer depth: 8
+00:08:38:  * Number of vertex blend matrices: 0
+00:08:38:  * Render to Vertex Buffer : no
+00:08:38:  * DirectX per stage constants: no
+00:08:38: ***************************************
+00:08:38: *** D3D9 : Subsystem Initialised OK ***
+00:08:38: ***************************************
+00:08:38: DefaultWorkQueue('Root') initialising on thread 00154710.
+00:08:38: DefaultWorkQueue('Root')::WorkerFunc - thread 0015FFC8 starting.
+00:08:38: DefaultWorkQueue('Root')::WorkerFunc - thread 00160008 starting.
+00:08:38: Particle Renderer Type 'billboard' registered
+00:08:38: SceneManagerFactory for type 'BspSceneManager' registered.
+00:08:38: Registering ResourceManager for type BspLevel
+00:08:38: SceneManagerFactory for type 'PCZSceneManager' registered.
+00:08:38: MovableObjectFactory for type 'PCZLight' registered.
+00:08:38: MovableObjectFactory for type 'Portal' registered.
+00:08:38: MovableObjectFactory for type 'AntiPortal' registered.
+00:08:38: PCZone Factory Type 'ZoneType_Octree' registered
+00:08:38: PCZone Factory Type 'ZoneType_Terrain' registered
+00:08:38: SceneManagerFactory for type 'OctreeSceneManager' registered.
+00:08:38: SceneManagerFactory for type 'TerrainSceneManager' registered.
+00:08:38: Creating resource group Essential
+00:08:39: Added resource location '../../media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+00:08:39: Added resource location '../../media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+00:08:39: Added resource location '../../media' of type 'FileSystem' to resource group 'General'
+00:08:39: Creating resource group Popular
+00:08:39: Added resource location '../../media/fonts' of type 'FileSystem' to resource group 'Popular'
+00:08:39: Added resource location '../../media/materials/programs' of type 'FileSystem' to resource group 'Popular'
+00:08:39: Added resource location '../../media/materials/scripts' of type 'FileSystem' to resource group 'Popular'
+00:08:39: Added resource location '../../media/materials/textures' of type 'FileSystem' to resource group 'Popular'
+00:08:39: Added resource location '../../media/materials/textures/nvidia' of type 'FileSystem' to resource group 'Popular'
+00:08:39: Added resource location '../../media/models' of type 'FileSystem' to resource group 'Popular'
+00:08:39: Added resource location '../../media/particle' of type 'FileSystem' to resource group 'Popular'
+00:08:39: Added resource location '../../media/DeferredShadingMedia' of type 'FileSystem' to resource group 'Popular'
+00:08:39: Added resource location '../../media/PCZAppMedia' of type 'FileSystem' to resource group 'Popular'
+00:08:39: Added resource location '../../media/RTShaderLib' of type 'FileSystem' to resource group 'Popular'
+00:08:39: Added resource location '../../media/RTShaderLib/materials' of type 'FileSystem' to resource group 'Popular'
+00:08:39: Added resource location '../../media/packs/cubemap.zip' of type 'Zip' to resource group 'Popular'
+00:08:39: Added resource location '../../media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'Popular'
+00:08:39: Added resource location '../../media/packs/dragon.zip' of type 'Zip' to resource group 'Popular'
+00:08:39: Added resource location '../../media/packs/fresneldemo.zip' of type 'Zip' to resource group 'Popular'
+00:08:39: Added resource location '../../media/packs/ogretestmap.zip' of type 'Zip' to resource group 'Popular'
+00:08:40: Added resource location '../../media/packs/ogredance.zip' of type 'Zip' to resource group 'Popular'
+00:08:40: Added resource location '../../media/packs/Sinbad.zip' of type 'Zip' to resource group 'Popular'
+00:08:40: Added resource location '../../media/packs/skybox.zip' of type 'Zip' to resource group 'Popular'
+00:08:40: Parsing scripts for resource group Autodetect
+00:08:40: Finished parsing scripts for resource group Autodetect
+00:08:40: Parsing scripts for resource group Essential
+00:08:40: Parsing script SdkTrays.material
+00:08:40: Parsing script SdkTrays.fontdef
+00:08:40: Parsing script SdkTrays.overlay
+00:08:40: Bad element attribute line: '# you can offset the image to change the cursor "hotspot"' for element SdkTrays/Cursor in overlay 
+00:08:40: Texture: sdk_cursor.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+00:08:40: Texture: sdk_tray.png: Loading 1 faces(PF_A8R8G8B8,64x64x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x64x1.
+00:08:40: Texture: sdk_button_up.png: Loading 1 faces(PF_A8R8G8B8,128x32x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x32x1.
+00:08:40: Font SdkTrays/Captionusing texture size 512x256
+00:08:40: Info: Freetype returned null for character 160 in font SdkTrays/Caption
+00:08:40: Texture: SdkTrays/CaptionTexture: Loading 1 faces(PF_BYTE_LA,512x256x1) with 0 generated mipmaps from Image. Internal format is PF_BYTE_LA,512x256x1.
+00:08:40: Texture: sdk_text_box.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+00:08:40: Texture: sdk_mini_tray.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+00:08:40: Font SdkTrays/Valueusing texture size 512x512
+00:08:40: Info: Freetype returned null for character 127 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 128 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 129 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 130 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 131 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 132 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 133 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 134 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 135 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 136 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 137 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 138 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 139 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 140 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 141 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 142 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 143 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 144 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 145 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 146 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 147 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 148 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 149 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 150 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 151 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 152 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 153 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 154 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 155 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 156 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 157 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 158 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 159 in font SdkTrays/Value
+00:08:40: Info: Freetype returned null for character 160 in font SdkTrays/Value
+00:08:40: Texture: SdkTrays/ValueTexture: Loading 1 faces(PF_BYTE_LA,512x512x1) with 0 generated mipmaps from Image. Internal format is PF_BYTE_LA,512x512x1.
+00:08:40: Texture: sdk_track.png: Loading 1 faces(PF_A8R8G8B8,16x32x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,16x32x1.
+00:08:40: Texture: sdk_handle.png: Loading 1 faces(PF_A8R8G8B8,16x16x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,16x16x1.
+00:08:40: Texture: sdk_mini_text_box.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+00:08:40: Texture: sdk_label.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+00:08:40: Texture: sdk_separator.png: Loading 1 faces(PF_A8R8G8B8,64x16x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x16x1.
+00:08:40: Texture: sdk_logo.png: Loading 1 faces(PF_A8R8G8B8,128x64x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x64x1.
+00:08:40: D3D9 : ***** Dimensions altered by the render system
+00:08:40: D3D9 : ***** Source image dimensions : 64x48
+00:08:40: D3D9 : ***** Texture dimensions : 64x64
+00:08:40: Texture: sdk_shade.png: Loading 1 faces(PF_A8R8G8B8,64x48x1) with 5 generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x64x1.
+00:08:40: Texture: sdk_frame.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+00:08:40: Texture: sdk_mini_text_box_over.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+00:08:40: Texture: sdk_pulse.png: Loading 1 faces(PF_R8G8B8,8x1x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,8x1x1.
+00:08:40: Finished parsing scripts for resource group Essential
+00:08:40: Parsing scripts for resource group General
+00:08:40: Finished parsing scripts for resource group General
+00:08:40: Parsing scripts for resource group Internal
+00:08:40: Finished parsing scripts for resource group Internal
+00:08:40: Parsing scripts for resource group Popular
+00:08:40: Parsing script Examples.program
+00:08:41: Parsing script StdQuad_vp.program
+00:08:41: Parsing script deferred_post.program
+00:08:41: Parsing script ShadowCaster.program
+00:08:41: Parsing script ASCII.material
+00:08:41: Parsing script ASMSwizzle.material
+00:08:41: Compiler error: object unsupported by render system in ASMSwizzle.material(1)
+00:08:41: Parsing script ball.material
+00:08:41: Parsing script BlackAndWhite.material
+00:08:41: Parsing script Bloom.material
+00:08:41: Parsing script Bloom2.material
+00:08:42: Parsing script CGSwizzle.material
+00:08:42: Parsing script CompositorDemo.material
+00:08:42: Parsing script DepthShadowmap.material
+00:08:42: Parsing script Dither.material
+00:08:42: Parsing script DOF.material
+00:08:42: Parsing script Embossed.material
+00:08:42: Parsing script Example-Water.material
+00:08:42: Parsing script Examples-Advanced.material
+00:08:43: Parsing script Examples-DynTex.material
+00:08:43: Parsing script Examples-Water.material
+00:08:43: Parsing script Examples.material
+00:08:43: OGRE EXCEPTION(2:InvalidParametersException): Parameter called camObjPos does not exist.  in GpuProgramParameters::_findNamedConstantDefinition at ..\..\..\..\OgreMain\src\OgreGpuProgramParams.cpp (line 1433)
+00:08:43: Compiler error: invalid parameters in Examples.material(837): setting of constant failed
+00:08:43: Parsing script facial.material
+00:08:43: Parsing script field.material
+00:08:43: Compiler error: unknown error in field.material(87): token "1141.73228346457," is not recognized
+00:08:43: Parsing script freddy.material
+00:08:43: Compiler error: reference to a non existing object in freddy.material(11)
+00:08:43: Compiler error: reference to a non existing object in freddy.material(15)
+00:08:43: Parsing script Glass.material
+00:08:43: Parsing script GLSLSwizzle.material
+00:08:43: Parsing script goal.material
+00:08:43: Parsing script Halftone.material
+00:08:43: Parsing script hdr.material
+00:08:44: Parsing script HeatVision.material
+00:08:44: Parsing script Hurt.material
+00:08:44: Parsing script instancing.material
+00:08:44: Parsing script Invert.material
+00:08:44: Parsing script IsoSurf.material
+00:08:44: Parsing script Laplace.material
+00:08:44: Parsing script MotionBlur.material
+00:08:44: Parsing script MRTtest.material
+00:08:44: Parsing script NightVision.material
+00:08:44: Parsing script Ocean.material
+00:08:45: Parsing script OffsetMapping.material
+00:08:45: Parsing script Ogre.material
+00:08:45: Parsing script OldMovie.material
+00:08:45: Parsing script OldTV.material
+00:08:45: Parsing script ParticleGS.material
+00:08:45: OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/ParticleGS/GenerateVS: CG ERROR : "The compile returned an error."
+(0) : error C6015: Output 'POSITION' not completely written
+ in CgProgram::loadFromSource at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+00:08:45: High-level program Ogre/ParticleGS/GenerateVS encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/ParticleGS/GenerateVS: CG ERROR : "The compile returned an error."
+(0) : error C6015: Output 'POSITION' not completely written
+ in CgProgram::loadFromSource at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+00:08:45: OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/ParticleGS/DisplayVS: CG ERROR : "The compile returned an error."
+(249) : warning C7050: "output.color" might be used before being initialized
+(0) : error C6015: Output 'POSITION' not completely written
+ in CgProgram::loadFromSource at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+00:08:45: High-level program Ogre/ParticleGS/DisplayVS encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/ParticleGS/DisplayVS: CG ERROR : "The compile returned an error."
+(249) : warning C7050: "output.color" might be used before being initialized
+(0) : error C6015: Output 'POSITION' not completely written
+ in CgProgram::loadFromSource at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+00:08:45: OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/ParticleGS/DisplayPS: CG ERROR : "The compile returned an error."
+(323) : fatal error C9999: unexpected cast operation
+ in CgProgram::loadFromSource at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+00:08:45: High-level program Ogre/ParticleGS/DisplayPS encountered an error during loading and is thus not supported.
+OGRE EXCEPTION(7:InternalErrorException): Unable to compile Cg program Ogre/ParticleGS/DisplayPS: CG ERROR : "The compile returned an error."
+(323) : fatal error C9999: unexpected cast operation
+ in CgProgram::loadFromSource at ..\..\..\..\..\PlugIns\CgProgramManager\src\OgreCgProgramManagerDll.cpp (line 67)
+00:08:45: Parsing script Penguin.material
+00:08:45: Parsing script Posterize.material
+00:08:45: Parsing script pssm.material
+00:08:45: Parsing script RadialBlur.material
+00:08:46: Parsing script RZR-002.material
+00:08:46: Parsing script ShaderSystem.material
+00:08:46: Parsing script shadows.material
+00:08:46: Parsing script SharpenEdges.material
+00:08:46: Parsing script sibenik.material
+00:08:46: Parsing script smoke.material
+00:08:46: Parsing script soccerPlayer.material
+00:08:46: Parsing script stadium.material
+00:08:46: Compiler error: unknown error in stadium.material(87): token "1023.62204724409," is not recognized
+00:08:46: Parsing script Tiling.material
+00:08:46: Parsing script VarianceShadowmap.material
+00:08:46: Parsing script deferreddemo.material
+00:08:46: Parsing script deferred_post.material
+00:08:46: Parsing script deferred_post_minilight.material
+00:08:46: Parsing script ShadowCaster.material
+00:08:46: Parsing script ssao.material
+00:08:46: Parsing script ROOM.material
+00:08:46: Parsing script RTShaderSystem.material
+00:08:46: Compiler error: unknown error in RTShaderSystem.material(23): token "rtshader_system" is not recognized
+00:08:46: Compiler error: unknown error in RTShaderSystem.material(52): token "rtshader_system" is not recognized
+00:08:46: Compiler error: unknown error in RTShaderSystem.material(81): token "rtshader_system" is not recognized
+00:08:46: Compiler error: unknown error in RTShaderSystem.material(110): token "rtshader_system" is not recognized
+00:08:46: Compiler error: unknown error in RTShaderSystem.material(146): token "rtshader_system" is not recognized
+00:08:46: Compiler error: unknown error in RTShaderSystem.material(81): token "rtshader_system" is not recognized
+00:08:46: Compiler error: unknown error in RTShaderSystem.material(162): token "rtshader_system" is not recognized
+00:08:46: Compiler error: unknown error in RTShaderSystem.material(81): token "rtshader_system" is not recognized
+00:08:46: Compiler error: unknown error in RTShaderSystem.material(110): token "rtshader_system" is not recognized
+00:08:46: Parsing script RomanBath.material
+00:08:46: Parsing script Sinbad.material
+00:08:46: Parsing script emitted_emitter.particle
+00:08:46: Parsing script Examples-Water.particle
+00:08:46: Parsing script Examples.particle
+00:08:46: Parsing script smoke.particle
+00:08:46: Parsing script Examples.compositor
+00:08:46: Parsing script deferred.compositor
+00:08:46: Parsing script ssao.compositor
+00:08:46: Parsing script sample.fontdef
+00:08:46: Finished parsing scripts for resource group Popular
+00:08:46: Demo initialized!
+00:08:46: Texture: stevecube_fr.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+00:08:46: Texture: stevecube_bk.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+00:08:46: Texture: stevecube_lf.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+00:08:46: Texture: stevecube_rt.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+00:08:46: Texture: stevecube_up.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+00:08:46: Texture: stevecube_dn.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+00:08:46: Mesh: Loading ogrehead.mesh.
+00:08:47: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource GreenSkin.jpg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 753)
+00:08:47: Error loading texture GreenSkin.jpg. Texture layer will be blank. Loading the texture failed with the following exception: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource GreenSkin.jpg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 753)
+00:08:47: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource spheremap.png in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 753)
+00:08:47: Error loading texture spheremap.png. Texture layer will be blank. Loading the texture failed with the following exception: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource spheremap.png in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 753)
+00:08:47: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource tusk.jpg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 753)
+00:08:47: Error loading texture tusk.jpg. Texture layer will be blank. Loading the texture failed with the following exception: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource tusk.jpg in resource group Popular or any other group. in ResourceGroupManager::openResource at ..\..\..\..\OgreMain\src\OgreResourceGroupManager.cpp (line 753)
+00:08:47: Start main loop...
+00:09:15: Main loop quit
+00:09:15: Shutdown OGRE...
+00:09:15: DefaultWorkQueue('Root') shutting down on thread 00154710.
+00:09:15: DefaultWorkQueue('Root')::WorkerFunc - thread 0015FFC8 stopped.
+00:09:15: DefaultWorkQueue('Root')::WorkerFunc - thread 00160008 stopped.
+00:09:15: PCZone Factory Type 'ZoneType_Octree' unregistered
+00:09:15: PCZone Factory Type 'ZoneType_Terrain' unregistered
+00:09:15: Unregistering ResourceManager for type BspLevel
+00:09:15: *-*-* OGRE Shutdown
+00:09:15: Unregistering ResourceManager for type Compositor
+00:09:15: Unregistering ResourceManager for type Font
+00:09:15: Unregistering ResourceManager for type Skeleton
+00:09:15: Unregistering ResourceManager for type Mesh
+00:09:15: Unregistering ResourceManager for type HighLevelGpuProgram
+00:09:15: Uninstalling plugin: Octree & Terrain Scene Manager
+00:09:15: Plugin successfully uninstalled
+00:09:15: Unloading library .\Plugin_OctreeSceneManager
+00:09:15: Uninstalling plugin: Octree Zone Factory
+00:09:15: Plugin successfully uninstalled
+00:09:15: Unloading library .\Plugin_OctreeZone
+00:09:15: Uninstalling plugin: Portal Connected Zone Scene Manager
+00:09:15: Plugin successfully uninstalled
+00:09:15: Unloading library .\Plugin_PCZSceneManager
+00:09:15: Uninstalling plugin: Cg Program Manager
+00:09:15: Plugin successfully uninstalled
+00:09:15: Unloading library .\Plugin_CgProgramManager
+00:09:15: Uninstalling plugin: BSP Scene Manager
+00:09:15: Plugin successfully uninstalled
+00:09:15: Unloading library .\Plugin_BSPSceneManager
+00:09:15: Uninstalling plugin: ParticleFX
+00:09:15: Plugin successfully uninstalled
+00:09:15: Unloading library .\Plugin_ParticleFX
+00:09:15: Uninstalling plugin: GL RenderSystem
+00:09:15: *** Stopping Win32GL Subsystem ***
+00:09:15: Plugin successfully uninstalled
+00:09:15: Unloading library .\RenderSystem_GL
+00:09:16: Uninstalling plugin: D3D9 RenderSystem
+00:09:16: D3D9 : Shutting down cleanly.
+00:09:16: Unregistering ResourceManager for type Texture
+00:09:16: Unregistering ResourceManager for type GpuProgram
+00:09:16: D3D9 : Direct3D9 Rendering Subsystem destroyed.
+00:09:16: Plugin successfully uninstalled
+00:09:16: Unloading library .\RenderSystem_Direct3D9
+00:09:16: Unregistering ResourceManager for type Material
