@@ -139,7 +139,7 @@ void CArmyWar::CheckPredictionError(int a)
 
 
 	float errorXrot =
-		localClient->serverFrame.rot.x - localClient->frame[a].predictedRot.x;
+		localClient->serverFrame.rot.w - localClient->frame[a].predictedRot.w;
 		
 	float errorYrot =
 		localClient->serverFrame.rot.y - localClient->frame[a].predictedRot.y;
@@ -147,7 +147,7 @@ void CArmyWar::CheckPredictionError(int a)
 	// Fix the prediction error
 	if( (errorXrot != 0.0f) || (errorYrot != 0.0f) )
 	{
-		localClient->frame[a].predictedRot.x = localClient->serverFrame.rot.x;
+		localClient->frame[a].predictedRot.w = localClient->serverFrame.rot.w;
 		localClient->frame[a].predictedRot.y = localClient->serverFrame.rot.y;
 
 		LogString("Prediction rot error for frame %d:     %f, %f\n", a,
@@ -251,10 +251,11 @@ void CArmyWar::PredictMovement(int prevFrame, int curFrame)
 
 	transVector.x = localClient->frame[prevFrame].predictedOrigin.x;
 	transVector.z = localClient->frame[prevFrame].predictedOrigin.y;
-	
-    localClient->character->mBodyNode->setPosition(transVector);
 
-    Ogre::Real w = localClient->frame[prevFrame].predictedRot.x;
+	//if(localClient->character)
+       localClient->character->mBodyNode->setPosition(transVector);
+
+    Ogre::Real w = localClient->frame[prevFrame].predictedRot.w;
 	Ogre::Real y = localClient->frame[prevFrame].predictedRot.y;
 
     localClient->character->mBodyNode->setOrientation(w, 0.0, y, 0.0);
@@ -266,7 +267,7 @@ void CArmyWar::PredictMovement(int prevFrame, int curFrame)
 	localClient->frame[curFrame].predictedOrigin.x = localClient->character->mBodyNode->getPosition().x;
     localClient->frame[curFrame].predictedOrigin.y = localClient->character->mBodyNode->getPosition().z;
 
-	localClient->frame[curFrame].predictedRot.x = localClient->character->mBodyNode->getOrientation().w;
+	localClient->frame[curFrame].predictedRot.w = localClient->character->mBodyNode->getOrientation().w;
     localClient->frame[curFrame].predictedRot.y = localClient->character->mBodyNode->getOrientation().y;
 
 	//LogString("w %f", localClient->character->mBodyNode->getOrientation().w);

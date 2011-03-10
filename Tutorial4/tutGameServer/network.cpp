@@ -206,7 +206,7 @@ void CArmyWarServer::BuildMoveCommand(dreamMessage *mes, clientData *client)
 	mes->WriteFloat(client->command.origin.y);
 	mes->WriteFloat(client->command.vel.x);
 	mes->WriteFloat(client->command.vel.y);
-	mes->WriteFloat(client->command.rot.x);
+	mes->WriteFloat(client->command.rot.w);
 	mes->WriteFloat(client->command.rot.y);
     //mes->WriteFloat(client->command.yaw);
 
@@ -259,7 +259,7 @@ void CArmyWarServer::BuildDeltaMoveCommand(dreamMessage *mes, clientData *client
 		mes->WriteFloat(client->command.vel.x);
 		mes->WriteFloat(client->command.vel.y);
 
-        mes->WriteFloat(client->command.rot.x);
+        mes->WriteFloat(client->command.rot.w);
 	    mes->WriteFloat(client->command.rot.y);
 
 		//mes->WriteFloat(client->command.yaw);

@@ -193,7 +193,7 @@ void CArmyWarServer::MovePlayer(clientData *client)
 	client->command.origin.x = client->character->mBodyNode->getPosition().x;
 	client->command.origin.y = client->character->mBodyNode->getPosition().z;
 
-	client->command.rot.x = client->character->mBodyNode->getOrientation().w;
+	client->command.rot.w = client->character->mBodyNode->getOrientation().w;
     client->command.rot.y = client->character->mBodyNode->getOrientation().y;
 
 	//client->command.yaw = client->character->mBodyNode->getOrientation().getYaw().valueDegrees();
@@ -244,7 +244,7 @@ void CArmyWarServer::AddClient(void)
 
 		clientList->character = new ServerSinbadCharacterController();
 
-		clientList->command.rot.x = clientList->character->mBodyNode->getOrientation().w;
+		clientList->command.rot.w = clientList->character->mBodyNode->getOrientation().w;
 		clientList->command.rot.y = clientList->character->mBodyNode->getOrientation().y;
 		//clientList->command.yaw = clientList->character->mBodyNode->getOrientation().getYaw().valueDegrees();
 
@@ -314,7 +314,7 @@ void CArmyWarServer::AddClient(void)
 
 		list->character = new ServerSinbadCharacterController();
 
-        list->command.rot.x = list->character->mBodyNode->getOrientation().w;
+        list->command.rot.w = list->character->mBodyNode->getOrientation().w;
 		list->command.rot.y = list->character->mBodyNode->getOrientation().y;
 		//list->command.yaw = list->character->mBodyNode->getOrientation().getYaw().valueDegrees();
 

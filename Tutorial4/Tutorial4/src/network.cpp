@@ -390,7 +390,7 @@ void CArmyWar::ReadMoveCommand(dreamMessage *mes, clientData *client)
 	client->serverFrame.origin.y		= mes->ReadFloat();
 	client->serverFrame.vel.x			= mes->ReadFloat();
 	client->serverFrame.vel.y			= mes->ReadFloat();
-    client->serverFrame.rot.x           = mes->ReadFloat();
+    client->serverFrame.rot.w           = mes->ReadFloat();
 	client->serverFrame.rot.y           = mes->ReadFloat();
     //client->serverFrame.yaw             = mes->ReadFloat();
 
@@ -415,7 +415,7 @@ void CArmyWar::ReadMoveCommand(dreamMessage *mes, clientData *client)
 	{
 		client->frame[f].predictedOrigin.x = client->command.origin.x;
 		client->frame[f].predictedOrigin.y = client->command.origin.y;
-		client->frame[f].predictedRot.x = client->command.rot.x;
+		client->frame[f].predictedRot.w = client->command.rot.w;
 		client->frame[f].predictedRot.y = client->command.rot.y;
 	}
 }
@@ -494,7 +494,7 @@ void CArmyWar::ReadDeltaMoveCommand(dreamMessage *mes, clientData *client)
 		client->serverFrame.vel.x = mes->ReadFloat();
 		client->serverFrame.vel.y = mes->ReadFloat();
 
-        client->serverFrame.rot.x = mes->ReadFloat();
+        client->serverFrame.rot.w = mes->ReadFloat();
 		client->serverFrame.rot.y = mes->ReadFloat();
 		//client->serverFrame.yaw   = mes->ReadFloat();
 
@@ -511,7 +511,7 @@ void CArmyWar::ReadDeltaMoveCommand(dreamMessage *mes, clientData *client)
 			client->command.vel.x = client->serverFrame.vel.x;
 			client->command.vel.y = client->serverFrame.vel.y;
 
-            client->command.rot.x = client->serverFrame.rot.x;
+            client->command.rot.w = client->serverFrame.rot.w;
 			client->command.rot.y = client->serverFrame.rot.y;
 			//client->command.yaw = client->serverFrame.yaw;
 		}
@@ -578,6 +578,9 @@ void CArmyWar::RunNetwork(int msec)
 
 	// Check that we haven't gone too far
 	if(current - ack > COMMAND_HISTORY_SIZE)
+		return;
+
+    if(!localClient)
 		return;
 
 	// Predict the frames that we are waiting from the server

@@ -19,13 +19,21 @@ typedef struct
 
 typedef struct
 {
+	float w;
+	float x;
+	float y;
+	float z;
+} QUATERNION;
+
+typedef struct
+{
 	int			key;
 
 	VECTOR2D	vel;
 	VECTOR2D	origin;
 	VECTOR2D	predictedOrigin;
-    VECTOR2D    rot;
-	VECTOR2D	predictedRot;
+    QUATERNION  rot;
+	QUATERNION	predictedRot;
 	//float       yaw;
 
 	int			msec;

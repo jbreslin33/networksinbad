@@ -13,11 +13,19 @@ typedef struct
 
 typedef struct
 {
+	float w;
+	float x;
+	float y;
+	float z;
+} QUATERNION;
+
+typedef struct
+{
 	int key;								// Pressed keys
 
 	VECTOR2D vel;							// Velocity
 	VECTOR2D origin;						// Position
-    VECTOR2D rot;						    // Rotation
+    QUATERNION rot;						    // Rotation
 	//float yaw;
 
 	int msec;								// How long to run command (in ms)

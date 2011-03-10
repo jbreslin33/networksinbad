@@ -111,7 +111,8 @@ bool CArmyWar::keyPressed( const OIS::KeyEvent &arg )
     //Ogre::LogManager::getSingletonPtr()->logMessage("*** keyPressed CArmyWar n***");
 	//LogString("keyPressed");
 	//game->localClient->character->injectKeyDown(arg);
-	localClient->character->injectKeyDown(arg);
+	if(localClient)
+	   localClient->character->injectKeyDown(arg);
 	return BaseApplication::keyPressed(arg);
 } 
 
@@ -120,7 +121,8 @@ bool CArmyWar::keyReleased( const OIS::KeyEvent &arg )
     //Ogre::LogManager::getSingletonPtr()->logMessage("*** keyPressed CArmyWar n***");
 	//LogString("keyReleased");
 	//game->localClient->character->injectKeyUp(arg);
-	localClient->character->injectKeyUp(arg);
+	if(localClient)
+	   localClient->character->injectKeyUp(arg);
 	return BaseApplication::keyReleased(arg);
 } 
 

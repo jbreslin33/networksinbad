@@ -23,6 +23,7 @@ class SinbadCharacterController
 public:
 	SceneNode* mBodyNode;
 	Vector3 mKeyDirection;
+	Vector3 mGoalDirection;
 
 private:
 
@@ -606,8 +607,8 @@ private:
 	bool mFadingIn[NUM_ANIMS];            // which animations are fading in
 	bool mFadingOut[NUM_ANIMS];           // which animations are fading out
 	bool mSwordsDrawn;
-	     // player's local intended direction based on WASD keys
-	Vector3 mGoalDirection;     // actual intended direction in world-space
+	                                     // player's local intended direction based on WASD keys
+	                                     // actual intended direction in world-space
 	Real mVerticalVelocity;     // for jumping
 	Real mTimer;                // general timer to see how long animations have been playing
 };
